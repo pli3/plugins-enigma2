@@ -1,0 +1,11 @@
+Package: enigma2-plugin-extensions-fritzcall
+Version: rev773_20130421_A
+Description: Enigma2 Plugin FritzCall bij Michael
+Section: extra
+Priority: optional
+Maintainer: michael
+Architecture: mipsel
+OE:
+Homepage:
+Depends:
+Source:
