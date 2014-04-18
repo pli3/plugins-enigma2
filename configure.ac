@@ -437,6 +437,7 @@ setpasswd/po/Makefile
 setpasswd/src/Makefile
 
 shoutcast/Makefile
+shoutcast/bin/Makefile
 shoutcast/locale/Makefile
 shoutcast/locale/de/Makefile
 shoutcast/locale/de/LC_MESSAGES/Makefile
