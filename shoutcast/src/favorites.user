@@ -1,0 +1,344 @@
+#schoutcast list by ooolexa
+
+config.entriescount=77
+config.Entries.0.text=Top
+config.Entries.0.type=genre
+config.Entries.0.name=Top
+
+config.Entries.1.text=Polska
+config.Entries.1.type=genre
+config.Entries.1.name=Polska
+
+config.Entries.2.text=Pop
+config.Entries.2.type=genre
+config.Entries.2.name=Pop
+
+config.Entries.3.text=Rock
+config.Entries.3.type=genre
+config.Entries.3.name=Rock
+
+config.Entries.4.text=Dance
+config.Entries.4.type=genre
+config.Entries.4.name=Dance
+
+config.Entries.5.text=Techno
+config.Entries.5.type=genre
+config.Entries.5.name=Techno
+
+config.Entries.6.text=Italo
+config.Entries.6.type=genre
+config.Entries.6.name=Italo
+
+config.Entries.7.text=Hiphop
+config.Entries.7.type=genre
+config.Entries.7.name=Hiphop
+
+config.Entries.8.text=Reggae
+config.Entries.8.type=genre
+config.Entries.8.name=Reggae
+
+config.Entries.9.text=Schlager
+config.Entries.9.type=genre
+config.Entries.9.name=Schlager
+
+config.Entries.10.text=Clasica
+config.Entries.10.type=genre
+config.Entries.10.name=Clasica
+
+config.Entries.11.text=http://stream01.media.rambler.ru/makkirus128.mp3
+config.Entries.11.type=url
+config.Entries.11.name=MakkiRUS
+config.Entries.11.bitrate=128
+
+config.Entries.12.text=http://77.241.44.141:8000/
+config.Entries.12.type=url
+config.Entries.12.name=RadioMirabo
+
+config.Entries.13.text=http://listen2.myradio24.com:9000/8020
+config.Entries.13.type=url
+config.Entries.13.name=Radio Zabawa
+
+config.Entries.14.text=http://stream10.radiostyle.ru:8010/transliit-radio
+config.Entries.14.type=url
+config.Entries.14.name=Mega Radio Translit
+
+config.Entries.15.text=http://178.91.94.15:8000/E-Wave-Radio
+config.Entries.15.type=url
+config.Entries.15.name=E-Wave Radio
+
+config.Entries.16.text=http://radio.mfm.ua/online128
+config.Entries.16.type=url
+config.Entries.16.name=mfm radio
+
+config.Entries.17.text=http://comfortfm.ru:8000/live_112
+config.Entries.17.type=url
+config.Entries.17.name=-=Comfort FM=- - Dance
+
+config.Entries.18.text=http://listen.rpfm.ru:9000/premium128
+config.Entries.18.type=url
+config.Entries.18.name=-=Радио Premium=- - Dance
+
+config.Entries.19.text=http://stream10.radiostyle.ru:8010/transliit-radio
+config.Entries.19.type=url
+config.Entries.19.name=Mega Translit
+
+config.Entries.20.text=http://stream0.radiostyle.ru:8000/radioex
+config.Entries.20.type=url
+config.Entries.20.name=RadioEx
+
+config.Entries.21.text=http://media.fregat.com:8000/RadioMIX
+config.Entries.21.type=url
+config.Entries.21.name=MiX FM
+config.Entries.21.bitrate=192
+
+config.Entries.22.text=http://online.radiorecord.ru:8101/rr_128
+config.Entries.22.type=url
+config.Entries.22.name=Radio Record
+
+config.Entries.23.text=http://radio.luga.net.ua:8002/
+config.Entries.23.type=url
+config.Entries.23.name=Luga Radio
+
+config.Entries.24.text=http://islander.org.ua/files/Radio_Ostrov.m3u
+config.Entries.24.type=url
+config.Entries.24.name=Radio Ostrov
+config.Entries.24.bitrate=128
+
+config.Entries.25.text=http://listen0.myradio24.com:8046
+config.Entries.25.type=url
+config.Entries.25.name=BestDance.FM
+
+config.Entries.26.text=http://club-high.rautemusik.fm
+config.Entries.26.type=url
+config.Entries.26.name=RauteMusik.FM Club
+
+config.Entries.27.text=http://shoutcast.aplus.by:9000/aplus_128
+config.Entries.27.type=url
+config.Entries.27.name=Aplus Radio
+
+config.Entries.28.text=http://online.radiorecord.ru:8102/tm_128
+config.Entries.28.type=url
+config.Entries.28.name=-=Radio Transmissia=- - House , Trance
+
+config.Entries.29.text=http://radio.sevstar.fm:8000/sevstar.128
+config.Entries.29.type=url
+config.Entries.29.name=-=SevStar.FM=- - Publik Radio
+
+config.Entries.30.text=http://listen.rpfm.ru:9000/premium128
+config.Entries.30.type=url
+config.Entries.30.name=-=Radio Premium=- - News Musik
+
+config.Entries.31.text=http://cast.radiogroup.com.ua:8000/avtoradio
+config.Entries.31.type=url
+config.Entries.31.name=-=AvtoRadio Ukraine=- - Pop
+
+config.Entries.32.text=http://flyfm.net:8000/flyfm
+config.Entries.32.type=url
+config.Entries.32.name=-=FlyFM=- - 90-х
+
+config.Entries.32.text=http://radioserver.fm:8000/radiozaryad
+config.Entries.32.type=url
+config.Entries.32.name=-=Radioserver=- - Pop
+
+config.Entries.33.text=http://www.rmix.dp.ua/listen_high.m3u
+config.Entries.33.type=url
+config.Entries.33.name=-=Radio MIX=- - Pop
+
+config.Entries.34.text=http://live.galaradio.com:8000/kiev
+config.Entries.34.type=url
+config.Entries.34.name=-=GalaKiev=- - Pop
+
+config.Entries.35.text=http://cast.radiogroup.com.ua:8000/europaplus
+config.Entries.35.type=url
+config.Entries.35.name=-=EuropaPlus Ukraine=- - Pop
+
+config.Entries.36.text=http://stream.makradio.ru/makkirus128.mp3
+config.Entries.36.type=url
+config.Entries.36.name=-=Makradio Top Hit=- - Pop
+
+config.Entries.37.text=http://online-kissfm.tavrmedia.ua:8000/kiss
+config.Entries.37.type=url
+config.Entries.37.name=-=KissFm=-
+
+config.Entries.38.text=http://217.199.121.235:80/995
+config.Entries.38.type=url
+config.Entries.38.name=-=Europe Plus=-
+
+config.Entries.39.text=http://radioserver.fm:8000/radiozaryad
+config.Entries.39.type=url
+config.Entries.39.name=-=Radiozaryad=- - Dance
+
+config.Entries.40.text=http://radio.kazantip-fm.ru:8000/mp3
+config.Entries.40.type=url
+config.Entries.40.name=-= kaZantip FM =-
+config.Entries.40.bitrate=128
+
+config.Entries.41.text=http://62.33.210.133:8000
+config.Entries.41.type=url
+config.Entries.41.name=-=Aleks City=- - Dance
+
+config.Entries.42.text=http://www.radio-set.ru/live.m3u
+config.Entries.42.type=url
+config.Entries.42.name=-=Radio Set=- - Electro
+
+config.Entries.43.text=http://spaceradio.org:8000/live.m3u
+config.Entries.43.type=url
+config.Entries.43.name=-=SpaceRadio=- - Dance
+
+config.Entries.44.text=http://radio.mv.ru:8080/DParty
+config.Entries.44.type=url
+config.Entries.44.name=-=Dance Party=- - Dance
+
+config.Entries.45.text=http://molode.com.ua:8128/
+config.Entries.45.type=url
+config.Entries.45.name=-=Molode radio=- - Various
+
+config.Entries.46.text=http://partyhitradio.com:8000/
+config.Entries.46.type=url
+config.Entries.46.name=-=Party Hit Radio=- - Dance
+
+config.Entries.47.text=http://radio.bestfm.fm:8080/bestfm
+config.Entries.47.type=url
+config.Entries.47.name=-=Bestfm=- - Dance
+
+config.Entries.48.text=http://www.zaycev.fm:9001/ZaycevFM(128)
+config.Entries.48.type=url
+config.Entries.48.name=-=ZaycevFM=- - Dance
+
+config.Entries.49.text=http://radio.overpro.ru:8000/fm
+config.Entries.49.type=url
+config.Entries.49.name=OverPRO
+
+config.Entries.50.text=http://radio-shtorm.ru:8000/112
+config.Entries.50.type=url
+config.Entries.50.name=-= Radio Shtorm =- 
+
+config.Entries.51.text=http://online-hitfm.tavrmedia.ua/HitFM
+config.Entries.51.type=url
+config.Entries.51.name=-= Hit FM =-
+config.Entries.51.bitrate=128
+
+config.Entries.52.text=http://online-rusradio.tavrmedia.ua:8000/RusRadio.m3u
+config.Entries.52.type=url
+config.Entries.52.name=-= Russkoe radio =-
+config.Entries.52.bitrate=128
+
+config.Entries.53.text=http://mp3.nashe.ru:80/nashe-128
+config.Entries.53.type=url
+config.Entries.53.name=-= Nashe radio =-
+config.Entries.53.bitrate=128
+
+config.Entries.54.text=http://online-rusradio.tavrmedia.ua:8000/RusRadio
+config.Entries.54.type=url
+config.Entries.54.name=-= Rus Radio UA=-
+config.Entries.54.bitrate=128
+
+config.Entries.55.text=http://radio.bestfm.fm:8080/bestfm
+config.Entries.55.type=url
+config.Entries.55.name=-= Best FM =-
+
+config.Entries.56.text=http://sc1.netstreamer.net:8008/
+config.Entries.56.type=url
+config.Entries.56.name=-= DEFJAY =-
+config.Entries.56.bitrate=128
+
+config.Entries.57.text=http://stream0.radiostyle.ru:8000/radioexclusivefm
+config.Entries.57.type=url
+config.Entries.57.name=-=RadioExclusivefm=- 
+
+config.Entries.58.text=http://radio.sevstar.fm:8000/sevstar
+config.Entries.58.type=url
+config.Entries.58.name=SevStar.FM
+
+config.Entries.59.text=http://radioserver.fm:8000/radiozaryad
+config.Entries.59.type=url
+config.Entries.59.name=Radiozaryad
+
+config.Entries.60.text=http://31.192.104.139:8000/live
+config.Entries.60.type=url
+config.Entries.60.name=FoX-FM
+config.Entries.60.bitrate=128
+
+config.Entries.61.text=http://online.fm.stryi.com:8000/Stryi-FM.m3u
+config.Entries.61.type=url
+config.Entries.61.name=Stryi-FM
+
+config.Entries.62.text=http://217.20.164.163:8002/
+config.Entries.62.type=url
+config.Entries.62.name=Shanson
+config.Entries.62.bitrate=128
+
+config.Entries.63.text=http://setmedia.ru:8000/high3
+config.Entries.63.type=url
+config.Entries.63.name=Kabriolet
+config.Entries.63.bitrate=128
+
+config.Entries.64.text=http://live.radio-set.ru:8000/best
+config.Entries.64.type=url
+config.Entries.64.name=RADIO-SET
+config.Entries.64.bitrate=128
+
+config.Entries.65.text=http://listen.radionomy.com/radiolobnia
+config.Entries.65.type=url
+config.Entries.65.name=Radiolobnia
+config.Entries.65.bitrate=128
+
+config.Entries.66.text=http://stream0.radiostyle.ru:8000/radioexclusivefm
+config.Entries.66.type=url
+config.Entries.66.name=Radio Exclusive FM
+
+config.Entries.67.text=http://62.33.210.133:8000
+config.Entries.67.type=url
+config.Entries.67.name=Aleks City
+
+config.Entries.68.text=http://listen.rockfunk.ru:8007/listen
+config.Entries.68.type=url
+config.Entries.68.name=Dizel
+config.Entries.68.bitrate=128
+
+config.Entries.69.text=http://radio-tochka.com:7465/
+config.Entries.69.type=url
+config.Entries.69.name=-= Radiotochka =-
+config.Entries.69.bitrate=128
+
+config.Entries.70.text=http://radio363.com:8000/radio363.m3u
+config.Entries.70.type=url
+config.Entries.70.name=- radio363 -
+
+config.Entries.71.text=http://91.220.161.56:8090/
+config.Entries.71.type=url
+config.Entries.71.name=-= Lux FM =-
+config.Entries.71.bitrate=128
+
+config.Entries.72.text=http://radioice.no-ip.org:8000/icemp3_192k.m3u
+config.Entries.72.type=url
+config.Entries.72.name=-=Radio ICE=- -Dance-
+config.Entries.72.bitrate=128
+
+config.Entries.73.text=http://media.brg.ua/m3u/sharmanka128.m3u
+config.Entries.73.type=url
+config.Entries.73.name=-=Sharmanka=-
+config.Entries.73.bitrate=160
+
+config.Entries.74.text=http://stream.makradio.ru/radiocafe128.mp3/title
+config.Entries.74.type=url
+config.Entries.74.name=-=RadioCafe=- 
+config.Entries.74.bitrate=192
+
+config.Entries.75.text=http://radio-shtorm.ru:8000/112
+config.Entries.75.type=url
+config.Entries.75.name=-=Radio Shtorm=-
+
+config.Entries.76.text=http://flyfm.net:8000/flyfm.m3u
+config.Entries.76.type=url
+config.Entries.76.name=FlyFm
+
+config.Entries.77.text=http://radio.dorama-fan.ru:8000/dorama-fan
+config.Entries.77.type=url
+config.Entries.77.name=Dorama-Fan
+config.Entries.77.bitrate=192
+
+config.Entries.88.text=http://stream01.radiocon.ru:8000/live.m3u
+config.Entries.88.type=url
+config.Entries.88.name=Radio-Continental
+config.Entries.88.bitrate=48

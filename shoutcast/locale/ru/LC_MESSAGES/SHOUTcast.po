@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: shoutcast\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-03 14:09+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: ooolexa <ooolexa@gmail.com>\n"
+"Language-Team: Dr.Best <dr.best@dreambox-tools.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Language: de_DE\n"
+"X-Generator: Poedit 1.5.5\n"
+
+msgid ""
+"%s\n"
+"Press OK to try again..."
+msgstr ""
+"%s\n"
+"Нажмите OK, чтобы попробовать еще раз..."
+
+msgid ""
+"%s\n"
+"Press green-button to try again..."
+msgstr ""
+"%s\n"
+"Нажмите зелёную кнопку,чтобы попробовать еще раз ......"
+
+msgid ">= 128 kbps"
+msgstr ">= 128 kbps"
+
+msgid ">= 192 kbps"
+msgstr ">= 192 kbps"
+
+msgid ">= 256 kbps"
+msgstr ">= 256 kbps"
+
+msgid ">= 64 kbps"
+msgstr ">= 64 kbps"
+
+msgid "Add current playing stream to favorite"
+msgstr "Добавить текущий stream в избранное"
+
+msgid "Add current selected genre to favorite"
+msgstr "Добавить выбранный жанр в избранное"
+
+msgid "Add current selected station to favorite"
+msgstr "Добавить выбранную станцию в избранное"
+
+msgid "Add sequence number to output file"
+msgstr "Создание файлов с последовательной нумерацией"
+
+msgid "All"
+msgstr "Все"
+
+msgid "Audio: %s"
+msgstr "Аудио: %s"
+
+msgid "Bit rate: %s kbps"
+msgstr "Битрейт: %s kbps"
+
+msgid "Cancel"
+msgstr "Отменить"
+
+msgid "Config"
+msgstr "Конфигурация"
+
+msgid "Create a directory for each stream"
+msgstr "Создать каталог для каждого потока"
+
+msgid "Do you really want to stop the recording?"
+msgstr "Вы действительно хотите,остановить запись?"
+
+msgid "Enter in minutes (0 means unlimited)"
+msgstr "Вход в минутах (0 = без ограничений)"
+
+msgid "Enter new name for favorite item"
+msgstr "Введите новое имя для избранного"
+
+msgid "Enter text to search for"
+msgstr "Введите текст для поиска"
+
+msgid "Favorite list"
+msgstr "Список избранного"
+
+msgid "Favorites"
+msgstr "Избранное"
+
+msgid "Genres"
+msgstr "Жанры"
+
+msgid "Getting %s"
+msgstr "Получить %s"
+
+msgid "Getting SHOUTcast genre list..."
+msgstr "Получить список SHOUTcast Жанр..."
+
+msgid ""
+"Getting streaming data from\n"
+"%s"
+msgstr ""
+"Получение потоковых данных из \n"
+"%s"
+
+msgid "Hide"
+msgstr "Скрыть"
+
+msgid "Invalid Location"
+msgstr "Недопустимый путь для записи"
+
+msgid "No streaming data found..."
+msgstr "Нет найденных потоковых данных..."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Off"
+msgstr "выключено"
+
+msgid "Only running streamings can be recorded!"
+msgstr ""
+"В настоящее время нет радиостанция сыграла.\n"
+"Запись не начнется"
+
+msgid "Record"
+msgstr "Запись"
+
+msgid "Recording length"
+msgstr "Продолжительность записи"
+
+msgid "Recording location:"
+msgstr "Дериктория записи"
+
+msgid "Recording stream station"
+msgstr "В настоящее время работает запись станции"
+
+msgid "Reload station list:"
+msgstr "Перезагрузить спискок радиостанций:"
+
+msgid "Rip to single file, name is timestamped"
+msgstr "Хранить в одном файле"
+
+msgid "SHOUTcast genre list"
+msgstr "Список SHOUTcast жанры"
+
+msgid "SHOUTcast station list for %s"
+msgstr "SHOUTcast список станций для - %s"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Searching SHOUTcast for %s..."
+msgstr "Поиск по SHOUTcast %s..."
+
+msgid "Station: %s"
+msgstr "Станция: %s"
+
+msgid "Stations"
+msgstr "Станции"
+
+msgid "Stop record"
+msgstr "Стоп запись"
+
+msgid "Streaming rate:"
+msgstr "Битрейт потока:"
+
+msgid "This Dreambox can't decode %s streams!"
+msgstr "%s Этот ресивер не может декодировать поток."
+
+msgid "Title: %s"
+msgstr "Название: %s"
+
+msgid "Title: n/a"
+msgstr "Название: n/a"
+
+msgid "every five minutes"
+msgstr "Каждые 5 минут"
+
+msgid "every minute"
+msgstr "Каждую минуту"
+
+msgid "every three minutes"
+msgstr "Каждые 3 минуты"
+
+msgid "genre %s"
+msgstr "Вид %s"
+
+msgid "Internet radio"
+msgstr "Интернет-радио"
+
+msgid "remove current selected favorite"
+msgstr "Удалить из favorite"
+
+msgid "rename current selected favorite"
+msgstr "Переименовать выбранный"
+
+msgid "search-criteria %s"
+msgstr "Поиск критерий %s"
+
+msgid "Show cover:"
+msgstr "Показать обложку:"
+
+msgid "Coverwidth:"
+msgstr "Ширина обложки:"
+
+msgid "Coverheight:"
+msgstr "Высота обложки:"
+
+msgid "Show in extension menu:"
+msgstr "Показывать в меню расширения:"
+
